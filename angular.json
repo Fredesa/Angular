@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-signup-verification-boilerplate"
+    }
+  },
+  "defaultProject": "angular-signup-verification-boilerplate",
+  "cli": {
+    "analytics": "f80e1be4-f796-40cf-87bf-8e66c6771593"
+  }
 }

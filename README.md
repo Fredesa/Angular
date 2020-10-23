@@ -1,5 +1,13 @@
-# angular-10-signup-verification-boilerplate
+# Programa de TEST DE APTITUD Y ACTITUD ANGULAR
 
-Angular 10 Boilerplate - Email Sign Up with Verification, Authentication & Forgot Password
+Este apartado es la parte visual creado mediante angular junto con la conexion de servidor mediante express
 
-For documentation and a live demo see https://jasonwatmore.com/post/2020/08/29/angular-10-boilerplate-email-sign-up-with-verification-authentication-forgot-password
+
+Asegurate antes de correr este sistema de haber inicializado mongoDB y haber iniciado la carpeta de MongoDB
+
+
+Gabriel Felipe Aguilar
+Sebastian Rodriguez Velasquez
+
+
+Universidad central
